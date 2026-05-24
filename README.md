@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**inkmanu/inkmanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center">
+      <!-- Hello Evelin typing -->
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=abd200&random=false&width=320&height=40&lines=Hello!+I'm+Manuela" 
+        alt="Typing SVG" 
+      />
+      <br/><br/>
+  </tr>
+</table>
