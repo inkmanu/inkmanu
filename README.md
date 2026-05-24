@@ -4,14 +4,6 @@
 <div>
 <div>
   
-<table>
-  <tr>
-    <td align="center">
-      <!-- Hello Manuela typing -->
-      <img 
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=c15151&&random=false&width=320&height=40&lines=Hello!+I'm+Manuela" 
-        alt="Typing SVG" 
-      />
-      <br/><br/>
-  </tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8d3232&width=435&lines=Hello,+I+am+Manuela.;Welcome+to+my+profile!)](https://git.io/typing-svg)
+</div>
+
